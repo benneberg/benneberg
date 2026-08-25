@@ -76,13 +76,11 @@ Edge infrastructure remote-management deployment monitoring
 <tr>
 <td width="50%" valign="top">
 
-***Voila!⁠***
+***Voila!***
+Universal file inspection
+Drop a file and understand what’s actually inside. Voila! uses magic-number detection, validation, contextual rendering, metadata inspection, and browser-based processing to turn unknown files into something immediately understandable.
 
-Operational automation
-
-Automation-oriented tooling for turning operational workflows into repeatable software processes.
-
-automation orchestration operations
+file-analysis previews magic-numbers developer-tools security
 
 </td>
 <td width="50%" valign="top">
