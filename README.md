@@ -17,8 +17,7 @@
 ```
 $ whoami
 
-  Software engineer building at the boundary of infrastructure,
-  distributed systems, edge computing, and AI.
+  Software engineer building systems at the boundary of infrastructure, distributed systems, edge computing, and AI.
 
   The recurring question across all of it:
   How do you make complex technology reliable, observable,
@@ -370,7 +369,7 @@ Not listed as core skills — that would be inaccurate. Listed because they're t
 
 <div align="center">
 
-**Karlstad, Sweden** · benneberg@gmail.com
+**Karlstad, Sweden**
 
 *This profile is an engineering map. The repositories contain the architecture, tradeoffs, and implementation decisions behind each project.*
 
