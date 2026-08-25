@@ -27,23 +27,24 @@ Explore Projects⁠￼ · Current Focus⁠￼ · Featured Repositories⁠￼
 $ whoami
 > Software Engineer building at the boundary of infrastructure, physical systems, and AI.
 > Focus: Tools that work reliably outside of a demo.
->
 > This profile is a map of selected projects.
 > Start with the area closest to your role and jump into the repositories.
 
 ⸻
 
-🔭 Current Focus
+**Current Focus**
 
-🛠️ Building: Robust AI-assisted development tools and next-gen IDE capabilities.
-🎯 Solving: Context fragmentation and weak tool-binding guarantees in AI agent loops.
-🌐 Exploring: Edge infrastructure reliability and open-spec workflow automation.
+**Building:** Robust AI-assisted development tools and next-gen IDE capabilities.
+
+**Solving:** Context fragmentation and weak tool-binding guarantees in AI agent loops.
+
+**Exploring:** Edge infrastructure reliability and open-spec workflow automation.
 
 ⸻
 
-🧭 Project Map
+**Project Map**
 
-🏗️ Infrastructure & Reliability
+**Infrastructure & Reliability**
 
 Systems for operating distributed environments, understanding failures, and reducing the cost of running software in the real world.
 
@@ -51,7 +52,7 @@ Systems for operating distributed environments, understanding failures, and redu
 <tr>
 <td width="50%" valign="top">
 
-Insidr Management⁠￼
+***Insidr Management⁠***￼
 
 Infrastructure management platform
 
@@ -62,20 +63,20 @@ infrastructure operations automation reliability
 </td>
 <td width="50%" valign="top">
 
-OmniSign⁠￼
+***OmniSign⁠***￼
 
 Distributed digital-signage platform
 
 A system for managing and operating digital signage across distributed endpoints, connecting central management with edge devices.
 
-edge infrastructure remote-management deployment monitoring
+Edge infrastructure remote-management deployment monitoring
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-Voila!⁠￼
+***Voila!⁠***
 
 Operational automation
 
@@ -86,7 +87,7 @@ automation orchestration operations
 </td>
 <td width="50%" valign="top">
 
-Downtime Analyzer⁠￼
+***Downtime Analyzer⁠***
 
 Reliability & downtime analysis
 
@@ -99,7 +100,7 @@ observability reliability analytics incident-analysis
 <tr>
 <td colspan="2" valign="top">
 
-ShadowFrame⁠￼
+***ShadowFrame⁠***
 
 Edge infrastructure
 
@@ -113,7 +114,7 @@ edge-computing deployment monitoring resilience
 
 ⸻
 
-📡 Edge & Embedded Systems
+**Edge & Embedded Systems**
 
 Software that connects applications to physical devices, industrial systems, networks, and distributed edge environments.
 
@@ -121,7 +122,7 @@ Software that connects applications to physical devices, industrial systems, net
 <tr>
 <td width="50%" valign="top">
 
-Insidr Telemetry⁠￼
+***Insidr Telemetry⁠***
 
 Telemetry for distributed devices
 
@@ -132,7 +133,7 @@ telemetry embedded-systems IoT observability
 </td>
 <td width="50%" valign="top">
 
-OmniSign Edge⁠￼
+***OmniSign Edge⁠***
 
 Embedded signage platform
 
@@ -145,18 +146,18 @@ embedded-Linux networking remote-control reliability
 <tr>
 <td width="50%" valign="top">
 
-ShadowFrame Runtime⁠￼
+***ShadowFrame Runtime⁠***
 
 Edge device runtime
 
 Software for operating distributed edge hardware and services with an emphasis on dependable deployment and remote operation.
 
-embedded edge-computing device-management
+Embedded edge-computing device-management
 
 </td>
 <td width="50%" valign="top">
 
-PLC AutoDocs⁠￼
+***PLC AutoDocs⁠***￼
 
 Industrial automation documentation
 
@@ -169,7 +170,7 @@ PLC industrial-automation code-analysis documentation
 <tr>
 <td colspan="2" valign="top">
 
-Signage Toolkit⁠￼
+***Signage Toolkit⁠***
 
 Digital-signage development toolkit
 
@@ -183,7 +184,7 @@ embedded signage deployment developer-tooling
 
 ⸻
 
-🤖 Developer Tooling & AI Systems
+**Developer Tooling & AI Systems**
 
 Tools exploring how software development and complex technical workflows can be augmented by automation, AI, and better developer interfaces.
 
@@ -191,7 +192,7 @@ Tools exploring how software development and complex technical workflows can be 
 <tr>
 <td width="50%" valign="top">
 
-bldr⁠￼
+***bldr⁠***
 
 Developer automation
 
@@ -202,7 +203,7 @@ developer-tooling automation build-systems
 </td>
 <td width="50%" valign="top">
 
-insikt⁠￼
+***insikt⁠*** 
 
 AI & engineering intelligence
 
@@ -215,7 +216,7 @@ AI code-intelligence analysis developer-experience
 <tr>
 <td width="50%" valign="top">
 
-Fleet of Karen⁠￼
+***Fleet of Karen⁠***
 
 AI agent fleet
 
@@ -226,7 +227,7 @@ AI-agents orchestration automation distributed-systems
 </td>
 <td width="50%" valign="top">
 
-Oppy OS⁠￼
+***Oppy OS⁠***
 
 AI-native operating environment
 
@@ -240,7 +241,7 @@ AI-systems operating-systems agents HCI
 
 ⸻
 
-🌟 Featured Repositories
+**Featured Repositories**
 
 <p align="center">
   <a href="https://github.com/benneberg/bldr">
@@ -261,7 +262,7 @@ AI-systems operating-systems agents HCI
 
 ⸻
 
-🧱 Core Philosophy
+**Core Philosophy**
 
 <div align="center">
 
@@ -278,7 +279,7 @@ AI-systems operating-systems agents HCI
 <br>
 <br>
 
-Benneberg
+Lukas Benneberg
 
 Built with passion for reliable systems.
 
