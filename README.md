@@ -1,5 +1,5 @@
 
-Benne Berg
+Benneberg
 
 Software Engineer · Infrastructure · Embedded Systems · Developer Tooling · AI Systems
 
