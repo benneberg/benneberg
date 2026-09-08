@@ -62,17 +62,23 @@ and runtime telemetry.
 ## More systems
 
 - **Intent Runtime** — Deterministic intent execution, state reconciliation and failure handling.
+
 → [Repository](https://github.com/benneberg/intent-runtime)
 - **bldr** — An execution kernel exploring event sourcing, deterministic mutation and Git-backed workflows.
+
 → [Repository](https://github.com/benneberg/bldr)
 - **API2UI Studio** — A compiler-oriented system transforming API specifications into interactive interfaces.
+
 → [Repository](https://github.com/benneberg/api2ui)
 - **CCC / ContextCompiler** — Repository and context tooling for making software systems structurally understandable to machines.
-→ [Repository](https://github.com/benneberg/ccc)
+
+→ [Repository](https://github.com/benneberg/contextcompiler)
 - **Verdict Lab** — An experimental evaluation environment for comparing AI outputs through reproducible multi-judge experiments.
+
 → [Repository](https://github.com/benneberg/verdict-lab)
 - **Downtime Analyzer** — Industrial diagnostics combining downtime investigation, PLC analysis and operational telemetry.
-→ [Repository](https://github.com/benneberg/downtime)
+
+→ [Repository](https://github.com/benneberg/downtime-analyzer)
 
 ---
 
